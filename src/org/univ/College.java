@@ -7,6 +7,8 @@ public class College extends University {
         super.ug();
         System.out.println("hari");
         System.out.println("test8 work is done");
+        System.out.println("arun");
+        System.out.println("test 9 work is done");
 	}
 	
 	public void pg() {
